@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="54px" viewBox="0 0 83 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Card</title>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M83,27 L83,44 C83,49.5228475 78.5228475,54 73,54 L10,54 C4.4771525,54 6.76353751e-16,49.5228475 0,44 L0,27 L83,27 Z M0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L73,0 C78.5228475,-1.01453063e-15 83,4.4771525 83,10 L83,14 L0,14 L0,10 Z" id="Card" fill="#000000"></path>
+    </g>
+</svg>

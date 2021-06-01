@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="297px" viewBox="0 0 312 297" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>data</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="data" transform="translate(0.000000, 1.000000)">
+            <g id="Group" opacity="0.15" transform="translate(274.000000, 0.000000)" stroke="#000000" stroke-width="4.17">
+                <line x1="28.57" y1="5.14" x2="16.28" y2="18.85" id="Path"></line>
+                <line x1="0.32" y1="0.51" x2="6.88" y2="16.53" id="Path"></line>
+                <line x1="36.64" y1="32.42" x2="15.24" y2="29" id="Path"></line>
+            </g>
+            <g id="Group" opacity="0.15" transform="translate(0.000000, 26.000000)" fill="#000000" fill-rule="nonzero">
+                <rect id="Rectangle" x="222.83" y="0.98" width="50.9" height="268.68"></rect>
+                <rect id="Rectangle" x="148.6" y="69.15" width="50.9" height="200.51"></rect>
+                <rect id="Rectangle" x="74.36" y="135.32" width="50.9" height="134.34"></rect>
+                <rect id="Rectangle" x="0.13" y="202.49" width="50.9" height="67.17"></rect>
+            </g>
+            <rect id="Rectangle" fill="#EC1651" fill-rule="nonzero" x="231.02" y="26.98" width="50.9" height="268.68"></rect>
+            <rect id="Rectangle" fill="#EC1651" fill-rule="nonzero" x="156.79" y="95.15" width="50.9" height="200.51"></rect>
+            <rect id="Rectangle" fill="#EC1651" fill-rule="nonzero" x="82.56" y="161.32" width="50.9" height="134.34"></rect>
+            <rect id="Rectangle" fill="#EC1651" fill-rule="nonzero" x="8.32" y="228.49" width="50.9" height="67.17"></rect>
+            <line x1="303.62" y1="5.14" x2="291.32" y2="18.85" id="Path" stroke="#FFCA05" stroke-width="4.17"></line>
+            <line x1="275.36" y1="0.51" x2="281.92" y2="16.53" id="Path" stroke="#FFCA05" stroke-width="4.17"></line>
+            <line x1="311.68" y1="32.42" x2="290.28" y2="29" id="Path" stroke="#FFCA05" stroke-width="4.17"></line>
+        </g>
+    </g>
+</svg>

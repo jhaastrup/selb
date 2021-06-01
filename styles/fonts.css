@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: 'Larsseit';
+  src: url('./fonts/Larsseit-Regular.otf') format('opentype');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: 'Larsseit';
+  src: url('./fonts/Larsseit-Medium.otf') format('opentype');
+  font-weight:  500;
+  font-style:   bold;
+  font-stretch: bold;
+  /* letter-spacing: -0.5px; */
+}
+
+@font-face {
+  font-family: 'Larsseit';
+  src: url('./fonts/Larsseit-Bold.otf') format('opentype');
+  font-weight:  600;
+  font-style:   bold;
+  font-stretch: bold;
+  /* letter-spacing: -0.5px; */
+}
